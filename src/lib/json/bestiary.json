@@ -1,0 +1,1874 @@
+[
+  {
+    "name": "Plantvine",
+    "id": 60010,
+    "dlcID": 0,
+    "area": "Grum County – North",
+    "description": "A botanic monster that inhabits grassland. Usually lurks in burrows with only the twin leaves of its head visible. Timid, rarely attacks humans.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Torasampe",
+    "id": 60011,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "A botanic monster in revenant castles. Hides in the ground near the dead, with twin leaves as its only visible feature. Savage and craves human flesh.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Sahagin",
+    "id": 60020,
+    "dlcID": 0,
+    "area": "Euchrisse",
+    "description": "An aquatic monster, half fish and half beast, that inhabits shore areas. Arms are unusually strong and well-developed. Apparently a poor swimmer.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Sea Slater",
+    "id": 60030,
+    "dlcID": 0,
+    "area": "Coastal Cave\n",
+    "description": "An arthropod monster that inhabits damp shore caves. Rustles about the rocks and licks moss and seaweed. Many humans find it repulsive.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Blaberus",
+    "id": 60031,
+    "dlcID": 0,
+    "area": "Bounty Hill",
+    "description": "An arthropod monster that inhabits damp forest thickets. Rustles up trees and licks sap and fruit. Many humans find it repulsive.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Shell Octopus",
+    "id": 60040,
+    "dlcID": 0,
+    "area": "Coastal Cave\n",
+    "description": "A molluscoid monster that inhabits rocky coastal areas. Usually hides inside tough shells. Spits ink to blind its enemies.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Sea Lizard",
+    "id": 60050,
+    "dlcID": 0,
+    "area": "Hishahn Old Town",
+    "description": "A subspecies of lizard that inhabits shore areas. Ferocious and will seize any chance to bite. Does not take damage while hiding underground.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Sea Ghost",
+    "id": 60060,
+    "dlcID": 0,
+    "area": "Hishahn Old Town",
+    "description": "A spirit monster that haunts shore areas. If this monster is killed with a curse, it returns in the same form to haunt the land of the living.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Savage Crab",
+    "id": 60070,
+    "dlcID": 0,
+    "area": "The Seaside Cavern",
+    "description": "A crustaceous shore monster with giant claws and a hard carapace. Nuisance in attacks, but prized by fishermen for its delicious flavor.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Desert Crab",
+    "id": 60071,
+    "dlcID": 0,
+    "area": "The Den of the Dunes",
+    "description": "A crustaceous monster that inhabits the desert. Has giant claws and a hard carapace. Its flesh is so delicious that all fall silent while eating it.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Remora",
+    "id": 60080,
+    "dlcID": 0,
+    "area": "Drowned City",
+    "description": "A monster that inhabits shore areas. Stops prey with high-pressure water and then bites with sharp fangs. Its delicious red flesh is rich in iron.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Petit Gargoyle",
+    "id": 60090,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "A stone castle guardian, imbued with life with high magic. When its magic expires, its eyes lose their color, and it becomes an ordinary statue again.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Corpse Knight",
+    "id": 60100,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "An undead monster utterly bound to its master's will. Raised by a higher revenant from the corpse of a low-ranking knight fallen on the battlefield.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Hell Knight",
+    "id": 60101,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "An undead monster utterly bound to its master's will. Raised by a higher revenant from the corpse of a knight fallen on the battlefield.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Corpse Guard",
+    "id": 60110,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "An undead monster utterly bound to its master's will. Raised by a higher revenant from the corpse of a heavy infantryman fallen on the battlefield.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Cursed Guard",
+    "id": 60111,
+    "dlcID": 0,
+    "area": "Athrabalt",
+    "description": "An undead monster utterly bound to its master's will. Raised by a higher revenant from the corpse of a heavy infantryman fallen on the battlefield.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Hell Guard",
+    "id": 60112,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "An undead monster utterly bound to its master's will. Raised by a higher revenant from the corpse of a guard fallen on the battlefield.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Corpse Witch",
+    "id": 60120,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "An undead monster utterly bound to its master's will. Raised by a higher revenant from the corpse of a mage fallen on the battlefield.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Cursed Witch",
+    "id": 60121,
+    "dlcID": 0,
+    "area": "Athrabalt",
+    "description": "An undead monster utterly bound to its master's will. Raised by a higher revenant from the corpse of a high mage fallen on the battlefield.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Hellflower",
+    "id": 60130,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "A botanic monster mutated by human corpse nutrients. Paralyzes victims with pollen before preying on them. Originally a small insectivorous plant.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Soul Reaper",
+    "id": 60140,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "A revenant, that was once an executioner cursed to death by its former master. Now vengefully roams earth, seeking to decapitate every being it finds.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Evil Spirit",
+    "id": 60150,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "A spirit monster found in caves and ruined castles. Said to be the remnant of a being that died with strong worldly attachments.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Corpse Rider",
+    "id": 60160,
+    "dlcID": 0,
+    "area": "Athrabalt",
+    "description": "A revenant that was once a knight who amassed deeds of valor on many battlefields with his steed. Roams battlefields in looking for a place to die.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Wandering Golem",
+    "id": 60170,
+    "dlcID": 0,
+    "area": "The Rune-Lens Research Lab",
+    "description": "A type of Rune Golem seen in the Rune-Lens Research Laboratory. Small and weak. Attacks by charging, but has bad balance.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Wandering Golem",
+    "id": 60171,
+    "dlcID": 0,
+    "area": "Northern Runebarrows",
+    "description": "A type of Rune Golem sighted in the Northern Barrows. Small and weak. Attacks by charging, but has bad balance. Covered in moss.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Huge Mite",
+    "id": 60180,
+    "dlcID": 0,
+    "area": "Northern Forest",
+    "description": "An arthropod monster that inhabits damp vegetated areas. Viciously attacks in swarms to suck the blood of its prey.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Golem Cleaner",
+    "id": 60190,
+    "dlcID": 0,
+    "area": "Proving Grounds",
+    "description": "A type of Rune Golem seen in Runebarrows. Fires a powerful destructive beam to clean up broken golems and intruders.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Golem Cleaner",
+    "id": 60191,
+    "dlcID": 0,
+    "area": "Northern Runebarrows",
+    "description": "A type of Rune Golem sighted in the Northern Barrows. Fires a powerful destructive beam to clean up broken golems and intruders. Covered in moss.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Assault Cleaner",
+    "id": 60192,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "An upgraded golem cleaner sighted at the Rune-Lens Research Laboratory. Fires a powerful destructive beam to clean up broken golems and intruders.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Aether Slime",
+    "id": 60200,
+    "dlcID": 0,
+    "area": "Abandoned Mine",
+    "description": "A monster that inhabits tunnels and caves. Dissolves and absorbs anything that crosses its path. It vibrate its body to boost its resistance to magic.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Pawn Demon",
+    "id": 60210,
+    "dlcID": 0,
+    "area": "Proving Grounds",
+    "description": "The lowest species of demon. Demons themselves are very seldom sighted. Origin unknown.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Andromalius",
+    "id": 60211,
+    "dlcID": 0,
+    "area": "Rune-Lens Research Lab",
+    "description": "A subspecies of the very rarely sighted pawn demon. Higher species of demons are said to have smaller bodies.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Ancient Seed",
+    "id": 60220,
+    "dlcID": 0,
+    "area": "The Greatwood",
+    "description": "A botanic monster that inhabits deep forests. Uses its two claws and huge mouth and teeth to prey on even large organisms.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Seed Conqueror",
+    "id": 60221,
+    "dlcID": 0,
+    "area": "Dappled Forest",
+    "description": "A subspecies of Ancient Seed that inhabits deep forest. Uses its two claws and huge mouth and teeth to prey on even large organisms.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Eggfoot",
+    "id": 60230,
+    "dlcID": 0,
+    "area": "Around Headquarters",
+    "description": "An egg-type monster that inhabits grassland and forest. Domesticated eggfoots are traded for races. Drops plain ole eggs.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Mach Egg",
+    "id": 60231,
+    "dlcID": 0,
+    "area": "Imperial Army Headquarters",
+    "description": "A subspecies of eggfoot that inhabits grassland and forest. The fastest of all wild eggfoots.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Odd Egg",
+    "id": 60240,
+    "dlcID": 0,
+    "area": "Around Kyshiri Village",
+    "description": "A subspecies of eggfoot that inhabits grassland and forest. Has some remaining shell attached due to hatching too hastily.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Shell Egg",
+    "id": 60250,
+    "dlcID": 0,
+    "area": "Grum County",
+    "description": "A subspecies of eggfoot that inhabits grassland and forest. Unlike regular eggfoots, this variant grows to adulthood with its shell attached.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Frost Shell",
+    "id": 60251,
+    "dlcID": 0,
+    "area": "The Whitecrowns",
+    "description": "A subspecies of eggfoot that inhabits the Whitecrowns. Retains its shell to keep warm amid the cold.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Lizard",
+    "id": 60260,
+    "dlcID": 0,
+    "area": "Grum County",
+    "description": "A reptilian monster that inhabits grassland. Savagely bites at any opportunity. Does not take damage while hiding underground.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Forest Lizard",
+    "id": 60261,
+    "dlcID": 0,
+    "area": "The Greatwood",
+    "description": "A subspecies of lizard that inhabits the Greatwood. Savagely bites at any opportunity. Does not take damage while hiding underground.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Cockatrice (Hatchling)",
+    "id": 60270,
+    "dlcID": 0,
+    "area": "Mountain Path Homeward",
+    "description": "A flying monster that inhabits mountains and forests. Still juvenile and cannot fly properly. May call parents when threatened.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Richie Cockatrice",
+    "id": 60271,
+    "dlcID": 0,
+    "area": "Mountain Path Homeward",
+    "description": "A flying monster that inhabits mountains and forests. Still juvenile and cannot fly properly. Somehow possesses a great deal of baqua.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Strange Bird",
+    "id": 60272,
+    "dlcID": 0,
+    "area": "Bounty Hill",
+    "description": "A subspecies of cockatrice that inhabits forests. Still juvenile and cannot fly properly. May call parents when threatened.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Cockatrice (adult)",
+    "id": 60280,
+    "dlcID": 0,
+    "area": "The Eldroad",
+    "description": "Mountain and forest-dwelling flying monster. Turns humans to stone when its young is threatened. Occasionally appears alone during breeding season.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Hippogriff",
+    "id": 60281,
+    "dlcID": 0,
+    "area": "Bounty Hill",
+    "description": "Forest-dwelling cockatrice subspecies. Turns humans to stone when its young are threatened. Occasionally appears alone during breeding season.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Synthetic Specimen C_0282",
+    "id": 60282,
+    "dlcID": 0,
+    "area": "Gardhaven Castle",
+    "description": "A mass-produced specimen created in Dux Aldric's research by melding a cockatrice with a rune-lens. Controllable with a regule.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Tyrant Tortoise",
+    "id": 60290,
+    "dlcID": 0,
+    "area": "The Eldroad",
+    "description": "A large reptilian monster that inhabits the Greatwood. Covered with a hard carapace that shields it from all half-hearted attacks.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Modified Specimen T_1965",
+    "id": 60291,
+    "dlcID": 0,
+    "area": "Imperial Army Headquarters",
+    "description": "A weapon born from Dux Aldric's research. Created by melding a tyrant tortoise with a rune-lens to yield a controllable specimen.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Sandfish",
+    "id": 60300,
+    "dlcID": 0,
+    "area": "Great Sandy Sea",
+    "description": "A fish-monster that inhabits the desert. Its white flesh is delicious with sauce. Dried sandfish fins are a local specialty.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Asterion",
+    "id": 60310,
+    "dlcID": 0,
+    "area": "Chelonian Goliath, Vilashnu",
+    "description": "A beast-monster that inhabits the Chelonian Goliath, Vilashnu. Attacks with devastating headbutts and a paralyzing roar.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Modified Specimen W_1155",
+    "id": 60311,
+    "dlcID": 0,
+    "area": "Blocked Highway",
+    "description": "A weapon born from Dux Aldric's research. Created by melding an asterion with a rune-lens in an attempt to make a controllable specimen.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Cactus Predator",
+    "id": 60320,
+    "dlcID": 0,
+    "area": "Euchrisse",
+    "description": "A botanic monster that inhabits swamps and rocky ridges. Scatters poisonous spikes to protect itself from enemies.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Desert Serval",
+    "id": 60330,
+    "dlcID": 0,
+    "area": "Shandar Ridge",
+    "description": "Desert beast-monster with nimble attacks and sharp claws for tearing prey. Reckless attackers face swift and brutal retribution from its fangs.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Scorpion Assassin",
+    "id": 60340,
+    "dlcID": 0,
+    "area": "The Den of the Dunes",
+    "description": "An arthropod monster that savagely attacks with its giant claws and venomous sting. Death is a constant peril for those who would confront it.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Wild Boar",
+    "id": 60350,
+    "dlcID": 0,
+    "area": "Redthroat Ridge",
+    "description": "A beast-monster that inhabits mountains. Vigilante groups are often formed to eradicate this crop-ravaging omnivore. Perilous to confront head-on.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Frost Boar",
+    "id": 60351,
+    "dlcID": 0,
+    "area": "Snowpeak Pass",
+    "description": "Whitecrown-dwelling Wild Boar subspecies. Avoids human settlements, charges fiercely even in the snow, and is perilous to confront head-on.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Ogre",
+    "id": 60360,
+    "dlcID": 0,
+    "area": "Imperial Army Headquarters",
+    "description": "This vicious race travels in gangs. Ogres assault humans and don the gear they plunder. Presumed to be incapable of understanding human speech, but...",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Balor",
+    "id": 60361,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "A breed of ogres that travels in packs. Assaults humans and dons plundered gear. Presumed to be incapable of understanding human speech, but...",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Forest Eater",
+    "id": 60370,
+    "dlcID": 0,
+    "area": "Northern Forest",
+    "description": "A botanic monster that inhabits forests. Launches surprise attacks from above by swinging down on threads. Captured prey is hauled up to the canopy.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Forest Ruler",
+    "id": 60371,
+    "dlcID": 0,
+    "area": "Dappled Forest",
+    "description": "Forest-dwelling Forest Eater subspecies. Launches surprise attacks from above by swinging down on threads. Captured prey is hauled up to the canopy.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Hellhound",
+    "id": 60380,
+    "dlcID": 0,
+    "area": "The Greatwood",
+    "description": "A beast-monster that inhabits the Greatwood. Savages its prey with its razor-sharp claws and fangs.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Modified Specimen H_008",
+    "id": 60381,
+    "dlcID": 0,
+    "area": "Gardhaven Castle",
+    "description": "A weapon born from Dux Aldric's research, mass-produced by melding hellhounds with rune-lenses to yield controllable specimens.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Killer Fungus",
+    "id": 60390,
+    "dlcID": 0,
+    "area": "The Greatwood",
+    "description": "A botanic monster that inhabits swamps and the Greatwood. Defends itself from enemies using its toxic spores.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Toadstool",
+    "id": 60391,
+    "dlcID": 0,
+    "area": "The Eldroad",
+    "description": "A subspecies of killer fungi that inhabits the depths of the Greatwood. Defends itself from enemies using its toxic spores.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Earth Dragon",
+    "id": 60400,
+    "dlcID": 0,
+    "area": "Chelonian Goliath, Vilashnu",
+    "description": "A rare land-dragon that inhabits the Chelonian Goliath, Vilashnu. Generates thunderbolts in its body and discharges them through its mouth.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Experimental Specimen A_0099",
+    "id": 60401,
+    "dlcID": 0,
+    "area": "Twinhorne West",
+    "description": "A weapon born from Dux Aldric's research. Created by melding an earth dragon with a rune-lens to yield a controllable specimen.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Hræsvelgr",
+    "id": 60410,
+    "dlcID": 0,
+    "area": "Redthroat Ridge",
+    "description": "A flying monster that inhabits Redthroat Ridge. Kicks its prey with its powerful legs.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Phantombird",
+    "id": 60411,
+    "dlcID": 0,
+    "area": "Dappled Forest",
+    "description": "A subspecies of hraesvelgr. Kicks its prey with its powerful legs. Likes to collect shiny objects.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Rabbit Knight",
+    "id": 60420,
+    "dlcID": 0,
+    "area": "Grum County – North",
+    "description": "Found all over the continent, the rabbit have clever hands and make all kinds of things for themselves.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Rabbit Lancer",
+    "id": 60421,
+    "dlcID": 0,
+    "area": "Abandoned Mine",
+    "description": "A type of rabbit found all over the continent. The rabbit lancer, handy with a lance, is an aggressive higher form of knight rabbit.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Rabbit Hero",
+    "id": 60422,
+    "dlcID": 0,
+    "area": "The Greatwood",
+    "description": "A type of rabbit found all over the continent. These rabbits, in their black armor, are the highest form of knight rabbit, and are everyone's hero.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Rabbit Wizard",
+    "id": 60430,
+    "dlcID": 0,
+    "area": "Northern Forest",
+    "description": "A subspecies of rabbit found all over the continent. The rabbit wizard is proficient in magic and provides rear-guard support.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Rabbit Mage",
+    "id": 60431,
+    "dlcID": 0,
+    "area": "Abandoned Mine",
+    "description": "A type of rabbit found all over the continent. The rabbit mage is a veteran magicians with stronger magic than that of a rabbit wizard.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Rabbit Archwitch",
+    "id": 60432,
+    "dlcID": 0,
+    "area": "The Greatwood",
+    "description": "Continent-wide rabbit species. As the highest form of rabbit wizard, the rabbit archwitch is an advanced magician capable of riding a broomstick.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Bear Rider",
+    "id": 60440,
+    "dlcID": 0,
+    "area": "The Greatwood",
+    "description": "A subspecies of rabbit knight found all over the continent. Commands a bear as an apprentice beast-tamer. Calls its fellows using a flute.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Bushtamer",
+    "id": 60441,
+    "dlcID": 0,
+    "area": "The Eldroad",
+    "description": "A rabbit found all over the continent. A higher form of bear rider that commands particularly ferocious bears. Calls its friends using a flute.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Land Octopus",
+    "id": 60450,
+    "dlcID": 0,
+    "area": "Abandoned Mine",
+    "description": "A molluscoid monster that inhabits tunnels. Usually hides inside a hard shell. Throws stones to intimidate enemies.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Death tracker",
+    "id": 60460,
+    "dlcID": 0,
+    "area": "Abandoned Mine",
+    "description": "A reptilian monster that inhabits tunnels. Discharges toxic gas from its body to protect itself from enemies.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Wyvern",
+    "id": 60470,
+    "dlcID": 0,
+    "area": "Around Headquarters",
+    "description": "A reptilian monster that inhabits grassland. Its atrophied wings are too feeble for flying. Belches fire and beats its wings to produce shockwaves.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Red Wyvern",
+    "id": 60471,
+    "dlcID": 0,
+    "area": "Dappled Forest",
+    "description": "A subspecies of wyvern that inhabits forests. Its atrophied wings are too feeble for flying. Belches fire and beats its wings to produce shockwaves.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Gigas",
+    "id": 60480,
+    "dlcID": 0,
+    "area": "The Den of the Dunes",
+    "description": "A race of giants that inhabits the desert. They have their own metalworking and leatherworking techniques.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Jotunn",
+    "id": 60481,
+    "dlcID": 0,
+    "area": "The Whitecrowns",
+    "description": "A subspecies of gigas that inhabits the Whitecrowns. They have their own metalworking and leatherworking techniques.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Sky Sahagin",
+    "id": 60490,
+    "dlcID": 0,
+    "area": "The Greatwood",
+    "description": "A subspecies of sahagin that inhabits the Greatwood. Swoops down to attack.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Sonic rider",
+    "id": 60491,
+    "dlcID": 0,
+    "area": "Great Sandy Sea",
+    "description": "A subspecies of sahagin that inhabits the Great Sandy Sea. Swoops down to attack. Rumored to be able to fly faster than sound.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Shadow Unicorn",
+    "id": 60500,
+    "dlcID": 0,
+    "area": "The Greatwood",
+    "description": "A beast-monster that inhabits the area around the Proving Grounds. Has a habit of shooting its horn at travelers.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Carbuncle",
+    "id": 60501,
+    "dlcID": 0,
+    "area": "Norristar",
+    "description": "A beast-monster that inhabits cold regions. Has a habit of using light-magic to play tricks on travelers.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Titan Slug",
+    "id": 60510,
+    "dlcID": 0,
+    "area": "Abandoned Mine",
+    "description": "A molluscoid monster that inhabits tunnels. Preys on humans, rabbits, and sahagin by spewing corrosive digestive juices over them.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Salt Slug",
+    "id": 60511,
+    "dlcID": 0,
+    "area": "Hishahn Old Town",
+    "description": "A subspecies of giant slug that inhabits shore areas. Preys on humans, rabbits, and sahagin by spewing corrosive digestive juices over them.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Army Beetle",
+    "id": 60520,
+    "dlcID": 0,
+    "area": "Around Headquarters",
+    "description": "Grassland monster. Attacks humans with its formidable jaws. Males fight each other with their prized horns for dominance.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Goldbug",
+    "id": 60521,
+    "dlcID": 0,
+    "area": "Bounty Hill",
+    "description": "A subspecies of army beetle that inhabits deep forest. Prized by enthusiasts for its brilliant gold color: specimens fetch a high price.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Desert Killer",
+    "id": 60530,
+    "dlcID": 0,
+    "area": "Great Sandy Sea",
+    "description": "Sea monster in the Great Sandy Sea, claimed many fishermen's lives. Tough scales prized for construction, but its flesh is dry and unappetizing.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Flying Egg",
+    "id": 60540,
+    "dlcID": 0,
+    "area": "Great Sandy Sea",
+    "description": "A mutant species of eggfoot that inhabits the Great Sandy Sea. Cannot be entered in eggfoot races as flying is against the rules.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Qualasmi",
+    "id": 60541,
+    "dlcID": 0,
+    "area": "Bounty Hill",
+    "description": "A subspecies of flying egg. Cannot be entered in eggfoot races as flying is against the rules.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Sandworm",
+    "id": 60550,
+    "dlcID": 0,
+    "area": "Shandar Ridge",
+    "description": "A worm-monster that inhabits deserts and rocky ridges. Tends to gather wherever there is carrion. Attempts to bite if it smells blood.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Scavenger",
+    "id": 60551,
+    "dlcID": 0,
+    "area": "The Den of the Dunes",
+    "description": "A subspecies of sandworm that inhabits deserts and rocky ridges. Tends to gather wherever there is carrion. Attempts to bite if it smells blood.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Yellow Slime",
+    "id": 60560,
+    "dlcID": 0,
+    "area": "Proving Grounds",
+    "description": "Barrow-dwelling aether slime subspecies. Dissolves and absorbs anything that crosses its path. Can vibrate its body to boost its resistance to magic.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Scarab",
+    "id": 60570,
+    "dlcID": 0,
+    "area": "Eastern Desert",
+    "description": "A subspecies of army beetle that inhabits the desert. Eats sandworms. Antiques are occasionally found snagged on its horns.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Sand Lizard",
+    "id": 60580,
+    "dlcID": 0,
+    "area": "Shandar Ridge",
+    "description": "A subspecies of lizard that inhabits the Shandar Ridge. Ferociously seizes any chance to bite. Does not take damage while hiding underground.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Snow Wolf",
+    "id": 60590,
+    "dlcID": 0,
+    "area": "Norristar",
+    "description": "A subspecies of hellhound that inhabits cold regions. Savages its prey with its razor-sharp claws and fangs.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Frost Slime",
+    "id": 60600,
+    "dlcID": 0,
+    "area": "Ice Cave",
+    "description": "Cold region aether slime subspecies. Dissolves and absorbs anything that crosses its path. Can freeze its body to boost its resistance to magic.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Assault Tiger",
+    "id": 60610,
+    "dlcID": 0,
+    "area": "The Whitecrowns",
+    "description": "A beast-monster that inhabits the Whitecrowns and preys on other creatures. Relentlessly attacks travelers.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Ice Golem",
+    "id": 60620,
+    "dlcID": 0,
+    "area": "Ice Cave",
+    "description": "A monster that inhabits cold regions. Nobody knows how long it has existed. Aimlessly roams the snowy plains, assailing anything that moves.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Snow Boxer",
+    "id": 60630,
+    "dlcID": 0,
+    "area": "Snowpeak Pass",
+    "description": "A warrior that inhabits the extreme north. Closes in with agile footwork and targets vital points with precise punches. Beware of its right cannon.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Azhdahag",
+    "id": 60640,
+    "dlcID": 0,
+    "area": "Chelonian Goliath, Vilashnu",
+    "description": "A dragon in the Chelonian Goliath, Vilashnu. This vicious, malevolent creature has earned the epithet \"Raging Slayer\" on the continent.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Heavy Modified Specimen B_1929",
+    "id": 60641,
+    "dlcID": 0,
+    "area": "Blocked Highway",
+    "description": "A weapon born from Dux Aldric's research. Created by melding an Azhdahag with a rune-lens in an attempt to make a controllable specimen.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Flame Gel",
+    "id": 60650,
+    "dlcID": 0,
+    "area": "Eastern Desert",
+    "description": "A subspecies of grimeoid that inhabits deserts. Attacks by spewing flames.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Grimeoid",
+    "id": 60651,
+    "dlcID": 0,
+    "area": "Norristar",
+    "description": "A slime monster that inhabits shore areas. Attacks by spewing venom.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Salamander",
+    "id": 60660,
+    "dlcID": 0,
+    "area": "Shandar Ridge",
+    "description": "A reptilian monster that emits great heat from its skin. Some species feed on ore, which they melt and absorb using their high body temperature.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Ripper Raptor",
+    "id": 60670,
+    "dlcID": 0,
+    "area": "Imperial Army Headquarters",
+    "description": "A reptilian monster that inhabits grassland. Travels in packs and seizes prey with its sharp claws.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Synthetic Specimen R_0901",
+    "id": 60671,
+    "dlcID": 0,
+    "area": "Gardhaven Castle",
+    "description": "A weapon born from Dux Aldric's research, mass-produced by melding ripper raptors with rune-lenses to yield controllable specimens.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Veronite",
+    "id": 60680,
+    "dlcID": 0,
+    "area": "Shandar Ridge",
+    "description": "An arthropod monster endemic to deserts and rocky ridges. Well-camouflaged to hide amid the sandy wastes. Resistant to surkkamui venom.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Carcasseater",
+    "id": 60690,
+    "dlcID": 0,
+    "area": "Grum County",
+    "description": "A monster that inhabits grassland and tunnels. Seizes prey with its sharp pincers. If this pest proliferates, it devours all surrounding fauna.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Maneater",
+    "id": 60691,
+    "dlcID": 0,
+    "area": "Material Dungeon (Forest)",
+    "description": "A subspecies of carcass eater that inhabits forests. Seizes prey with its sharp pincers. If this pest proliferates, it devours all surrounding fauna.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Nidhoggr",
+    "id": 60700,
+    "dlcID": 0,
+    "area": "Chelonian Goliath, Vilashnu",
+    "description": "A rare dragon that inhabits the Chelonian Goliath, Vilashnu. This ancient species has earned the epithet \"Champion of the Sun\" on the continent.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Synthetic Specimen R_0812",
+    "id": 60701,
+    "dlcID": 0,
+    "area": "Blocked Highway",
+    "description": "A weapon born from Dux Aldric's research. Created by melding a nidhoggr with a rune-lens in an attempt to make a controllable specimen.",
+    "weakness": "Water",
+    "isBoss": false
+  },
+  {
+    "name": "Spy Orb",
+    "id": 60710,
+    "dlcID": 0,
+    "area": "Proving Grounds",
+    "description": "A type of Rune Golem seen in the Runebarrows. Only a weak scout, but will attack intruders inside the barrows.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Spy Orb",
+    "id": 60711,
+    "dlcID": 0,
+    "area": "Northern Runebarrows",
+    "description": "A type of Rune Golem sighted in the Northern Barrows. Only a weak scout, but will attack intruders inside the barrows. Covered in moss.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Mine Orb",
+    "id": 60712,
+    "dlcID": 0,
+    "area": "Gardhaven Castle",
+    "description": "A type of Rune Golem originally seen in the Runebarrows. This dreadful golem attempts to kill intruders by self-destructing in a kamikaze attack.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Murdersoul",
+    "id": 60720,
+    "dlcID": 0,
+    "area": "The Rune-Lens Research Lab",
+    "description": "An elemental monster seen in the Rune-Lens Research Laboratory. Exceedingly resistant to all forms of magic except its elemental weakness.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Aquasoul",
+    "id": 60721,
+    "dlcID": 0,
+    "area": "Hishahn Old Town",
+    "description": "An element monster seen in shore areas. Exceedingly resistant to all forms of magic except its elemental weakness.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Ice-soul",
+    "id": 60722,
+    "dlcID": 0,
+    "area": "Ice Cave",
+    "description": "An element monster seen in cold regions. Exceedingly resistant to all forms of magic except its elemental weakness.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Xibalba",
+    "id": 60723,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "An element monster seen in revenant castles. Exceedingly resistant to all forms of magic except its elemental weakness.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Nikkari",
+    "id": 60730,
+    "dlcID": 0,
+    "area": "Hishahn Old Town",
+    "description": "Shore spirit monster. The Nikkari is a specter animated by the soul of a warrior. Its slashing strike can reputedly cleave a tombstone in two.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Lesser Demon",
+    "id": 60740,
+    "dlcID": 0,
+    "area": "Rune-Lens Research Lab",
+    "description": "A higher species of pawn demon. Demons themselves are very seldom sighted. Origin unknown.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Arch-Demon",
+    "id": 60741,
+    "dlcID": 0,
+    "area": "Gardhaven Castle",
+    "description": "A subspecies of the very rarely sighted lesser demon. Higher species of demons are said to have smaller bodies.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Dragon Viper",
+    "id": 60750,
+    "dlcID": 0,
+    "area": "The Eldroad",
+    "description": "A reptilian monster that inhabits the depths of the Greatwood. Pounces on prey and attempts to swallow it whole.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Angry Bat",
+    "id": 60760,
+    "dlcID": 0,
+    "area": "Abandoned Mine",
+    "description": "Tunnel small flying monster. Generally has a timid disposition and feeds on insects and small animals, but angrily attacks any humans it sees.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Gourmand Bat",
+    "id": 60761,
+    "dlcID": 0,
+    "area": "Bounty Hill",
+    "description": "A subspecies of angry bat that inhabits forests. Enjoys feeding on ripe fruit. May attack humans when startled.",
+    "weakness": "Thrust",
+    "isBoss": false
+  },
+  {
+    "name": "Tundra Bat",
+    "id": 60762,
+    "dlcID": 0,
+    "area": "Around Norristar",
+    "description": "A subspecies of angry bat that inhabits cold regions.\nHas a placid disposition and feeds on frozen prey. May attack humans when startled.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Surkkamui",
+    "id": 60770,
+    "dlcID": 0,
+    "area": "Shandar Ridge",
+    "description": "A reptilian monster endemic to Shandar Ridge. Preys on the Shandar sand lizard, weakening its target by spitting a potent venom.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Bloodleech",
+    "id": 60780,
+    "dlcID": 0,
+    "area": "Material Dungeon (Forest)",
+    "description": "A worm-like monster that inhabits forests. Whirls as it leaps to latch on its prey and feasts on its blood.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Hardknock",
+    "id": 60790,
+    "dlcID": 0,
+    "area": "Proving Grounds",
+    "description": "A type of Rune Golem seen in the Runebarrows. Beats intruders to death with arms.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Protoguard",
+    "id": 60791,
+    "dlcID": 0,
+    "area": "The Rune-Lens Research Lab",
+    "description": "An upgraded Hardknock seen in the Rune-Lens Research Laboratory. Beats intruders to death with arms.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Samurai-Revenant",
+    "id": 60800,
+    "dlcID": 0,
+    "area": "Athrabalt",
+    "description": "A revenant that was once a master swordsman from the East Reach. Cleaves enemies in two with its quick-draw technique.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Maiden-Revenant",
+    "id": 60810,
+    "dlcID": 0,
+    "area": "Athrabalt",
+    "description": "Renowned dancer turned revenant, hailing from a mage family with hair manipulation abilities. Able to cast multiple spells simultaneously.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Spookybear-Revenant",
+    "id": 60820,
+    "dlcID": 0,
+    "area": "Athrabalt",
+    "description": "A giant murderous plush toy summoned by a blue teddy bear that was possessed by the soul of a child that died a tragic death.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Spookybear-Revenant",
+    "id": 60821,
+    "dlcID": 0,
+    "area": "Athrabalt",
+    "description": "The true nature of the giant murderous plush toy summoned by a blue teddy bear that was possessed by the soul of a child that died a tragic death.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Watercat",
+    "id": 60830,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A giant teddy bear that was once popular in the Old Kingdom. It grew to hate humans and became violent.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Firecat",
+    "id": 60831,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A giant teddy bear that was once popular in the Old Kingdom. It grew to hate humans and became violent.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Windcat",
+    "id": 60832,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A colorful members of the Multi Cat, harnessing the power of wind. Puts on a cute facade, but a feisty fighter.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Earthcat",
+    "id": 60833,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A colorful members of the Multi Cat, harnessing the power of wind. Puts on a cute facade, but a feisty fighter.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Darkcat",
+    "id": 60834,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A colorful members of the Multi Cat, harnessing the power of wind. Puts on a cute facade, but a feisty fighter.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Lightcat",
+    "id": 60835,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A colorful members of the Multi Cat, harnessing the power of wind. Puts on a cute facade, but a feisty fighter.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Greedtoy",
+    "id": 60840,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A colorful members of the Multi Cat, harnessing the power of wind. Puts on a cute facade, but a feisty fighter.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Sonic Wolf",
+    "id": 60850,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A monster from another world that is distressed by its inability to find its way home. It has remarkable agility and attacks anything that approaches.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Borschy",
+    "id": 60860,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A monster from another world that is distressed by its inability to find its way home. It has remarkable agility and attacks anything that approaches.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Goblomancer",
+    "id": 60870,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A monster from another world that is distressed by its inability to find its way home. It has remarkable agility and attacks anything that approaches.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Trovegeist",
+    "id": 60880,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A monster from another world that is distressed by its inability to find its way home. It has remarkable agility and attacks anything that approaches.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Jellysalis",
+    "id": 60890,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A monster from another world that is distressed by its inability to find its way home. It has remarkable agility and attacks anything that approaches.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Orbguard",
+    "id": 60900,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A monster from another world that is distressed by its inability to find its way home. It has remarkable agility and attacks anything that approaches.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Lilith",
+    "id": 60910,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A distinguished class within the demon species, proficient in wielding potent dark magic to drain the life from their victims.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Strangers",
+    "id": 60920,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A distinguished class within the demon species, proficient in wielding potent dark magic to drain the life from their victims.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Letus",
+    "id": 60930,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A distinguished class within the demon species, proficient in wielding potent dark magic to drain the life from their victims.",
+    "weakness": "Light",
+    "isBoss": false
+  },
+  {
+    "name": "Helldogs",
+    "id": 60940,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A distinguished class within the demon species, proficient in wielding potent dark magic to drain the life from their victims.",
+    "weakness": "Fire",
+    "isBoss": false
+  },
+  {
+    "name": "Crazy Bear",
+    "id": 60980,
+    "dlcID": 0,
+    "area": "Around Kyshiri Village",
+    "description": "A distinguished class within the demon species, proficient in wielding potent dark magic to drain the life from their victims.",
+    "weakness": "Slash",
+    "isBoss": false
+  },
+  {
+    "name": "Kraken",
+    "id": 70010,
+    "dlcID": 0,
+    "area": "Coastal Cave",
+    "description": "A spontaneously mutated monster inadvertently produced in failed experiment by Momo. Contains a powerful raw lens.",
+    "weakness": "Earth",
+    "isBoss": true
+  },
+  {
+    "name": "Dead countess",
+    "id": 70020,
+    "dlcID": 0,
+    "area": "Castle Harganthia",
+    "description": "The revenant form of a woman who had a close bond with Markus when he was human. Even under Diradhe's rule, she retains strong feelings for Markus.",
+    "weakness": "Light",
+    "isBoss": true
+  },
+  {
+    "name": "Prometheus",
+    "id": 70030,
+    "dlcID": 0,
+    "area": "Runebarrows",
+    "description": "A large Rune Golem that guards Runebarrows. Stores energy in its massive blade to attack. Powered by the Barrows' energy.",
+    "weakness": "Dark",
+    "isBoss": true
+  },
+  {
+    "name": "Golem Pulverizer",
+    "id": 70040,
+    "dlcID": 0,
+    "area": "Northern Runebarrows",
+    "description": "A large Rune Golem sighted at the Northern Barrows. Capable of delivering devastating blows with its immense arms. Runs on energy from a rune-lens.",
+    "weakness": "Grapple",
+    "isBoss": true
+  },
+  {
+    "name": "Oyamatsumi",
+    "id": 70052,
+    "dlcID": 0,
+    "area": "The Den of the Dunes",
+    "description": "A gigantic monster that inhabits the desert sands. Desert fishermen flee for their lives upon sighting it. Its bones are used as a building material.",
+    "weakness": "Water",
+    "isBoss": true
+  },
+  {
+    "name": "Nerthus",
+    "id": 70060,
+    "dlcID": 0,
+    "area": "Redthroat Ridge",
+    "description": "A beast-monster that inhabits Redthroat Ridge. Hides in holes to ambush unsuspecting humans, and carries its plunder back to its lair.",
+    "weakness": "Light",
+    "isBoss": true
+  },
+  {
+    "name": "Astraea the Judge",
+    "id": 70070,
+    "dlcID": 0,
+    "area": "Proving Grounds",
+    "description": "A mysterious monster that appeared at the Proving Grounds. Controls the Rune Golems that protect the Barrows, and subjects intruders to a final test.",
+    "weakness": "Dark",
+    "isBoss": true
+  },
+  {
+    "name": "Slaosha the Enforcer",
+    "id": 70080,
+    "dlcID": 0,
+    "area": "Proving Grounds",
+    "description": "A type of Rune Golem that protects the Proving Grounds. Controlled by Astraea the Referee, and attacks intruders with its gigantic sword.",
+    "weakness": "Light",
+    "isBoss": true
+  },
+  {
+    "name": "Elder Dragon",
+    "id": 70100,
+    "dlcID": 0,
+    "area": "The Eldroad",
+    "description": "A juvenile dragon that appears in the depths of the Greatwood. Unleashes magical attacks from above onto intruders that violate its territory.",
+    "weakness": "Water",
+    "isBoss": true
+  },
+  {
+    "name": "Fenrir",
+    "id": 70110,
+    "dlcID": 0,
+    "area": "Ice Cave",
+    "description": "A large three-headed beast-monster that haunts the depths of the Ice Cave. When all its heads are awakened, it exhales a powerful freezing attack.",
+    "weakness": "Earth",
+    "isBoss": true
+  },
+  {
+    "name": "Chimera",
+    "id": 70120,
+    "dlcID": 0,
+    "area": "Blocked Highway",
+    "description": "Born from Dux Aldric's research, this entity was created by fusing various monsters with a rune-lens in an attempt to make a controllable specimen.",
+    "weakness": "Fire",
+    "isBoss": true
+  },
+  {
+    "name": "Pagurian",
+    "id": 70130,
+    "dlcID": 0,
+    "area": "Hishahn Old Town",
+    "description": "A large aquatic monster that inhabits the drowned city. Carries the ruins of a building on its back for protection as it hunts for prey.",
+    "weakness": "Earth",
+    "isBoss": true
+  },
+  {
+    "name": "Alde Dracare",
+    "id": 70150,
+    "dlcID": 0,
+    "area": "Gardhaven Castle Rooftop",
+    "description": "The Dux's crowning achievement, created by melding a rare black dragon with rune-lens to enable control using the power of a Primal Lens.",
+    "weakness": "Light",
+    "isBoss": true
+  },
+  {
+    "name": "Alde Dracare",
+    "id": 70160,
+    "dlcID": 0,
+    "area": "Gardhaven Castle Rooftop",
+    "description": "The evolved form of the Alde Dracare, transformed by the power of the rune-lens when the latter was set free from the control of the Primal Lens.",
+    "weakness": "Light",
+    "isBoss": true
+  },
+  {
+    "name": "Ancient King",
+    "id": 70180,
+    "dlcID": 0,
+    "area": "Shrine",
+    "description": "A mysterious swordsman who was sealed in a realm beyond and appeared out of nowhere. He seems to have some ties to the East...",
+    "weakness": "Light",
+    "isBoss": true
+  },
+  {
+    "name": "Kogen",
+    "id": 81070,
+    "dlcID": 0,
+    "area": "Castle Ruins",
+    "description": "The leader of Kogen's band, which Nowa and his party was asked to go and subdue after it raided Altverden.",
+    "weakness": "Blunt",
+    "isBoss": false
+  },
+  {
+    "name": "Yuthus",
+    "id": 81080,
+    "dlcID": 0,
+    "area": "Castle Ruins",
+    "description": "The vanguard captain of Kogen's band, which Nowa and his party were asked to go and subdue after it raided Altverden.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Zabi",
+    "id": 81090,
+    "dlcID": 0,
+    "area": "Castle Ruins",
+    "description": "The advisor of Kogen's band, which Nowa and his party was asked to go and subdue after it raided Altverden.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Hurstwine",
+    "id": 81510,
+    "dlcID": 0,
+    "area": "Kyshiri Village",
+    "description": "A covert operative under Dux Aldric's direct command. Frequently opposes Nowa as a recurring adversary.",
+    "weakness": "No Weaknesses",
+    "isBoss": true
+  },
+  {
+    "name": "Chapell",
+    "id": 81540,
+    "dlcID": 0,
+    "area": "Eltisweiss",
+    "description": "An imperial aristocrat devoted to fulfilling Dux Aldric's ambitions. Chapell is an officer and is proficient in magic.",
+    "weakness": "Slash",
+    "isBoss": true
+  },
+  {
+    "name": "Narungarde",
+    "id": 81550,
+    "dlcID": 0,
+    "area": "Proving Grounds",
+    "description": "Mysterious woman aiding Dux Aldric. Utilizes rune-lens power for teleportation and summoning. Masked member of the Conclave of the Dawn.",
+    "weakness": "Wind",
+    "isBoss": true
+  },
+  {
+    "name": "Heinrich",
+    "id": 81580,
+    "dlcID": 0,
+    "area": "The Whitecrowns",
+    "description": "A young officer who has sworn fealty to Dux Aldric. Suppresses the power of his rune-lens with a regule, but later loses control of it.",
+    "weakness": "Water",
+    "isBoss": true
+  },
+  {
+    "name": "Imperial Soldier (Sword)",
+    "id": 82101,
+    "dlcID": 0,
+    "area": "Werne Village",
+    "description": "A regular Galdean soldier equipped with standard one-handed sword.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Imperial Soldier (Spear)",
+    "id": 82102,
+    "dlcID": 0,
+    "area": "Werne Village",
+    "description": "A spearman of the Galdean Empire, equipped with a standard spear.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Imperial Soldier (Bow)",
+    "id": 82103,
+    "dlcID": 0,
+    "area": "Werne Village",
+    "description": "An archer of the Galdean Empire, equipped with a standard bow.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Imperial Elite (Sword)",
+    "id": 82111,
+    "dlcID": 0,
+    "area": "Eltisweiss",
+    "description": "A higher-ranking soldier of the Galdean Empire.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Thief (Knife)",
+    "id": 82241,
+    "dlcID": 0,
+    "area": "Kyshiri Village",
+    "description": "One of the thieves who run rampant all over Allraan.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Thief (Bow)",
+    "id": 82242,
+    "dlcID": 0,
+    "area": "Kyshiri Village",
+    "description": "One of the thieves who run rampant all over Allraan.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Dragonewt Soldier (Spear)",
+    "id": 82263,
+    "dlcID": 0,
+    "area": "Hero’s Trial Ground",
+    "description": "A dragonewt soldier of Kenan.",
+    "weakness": "Wind",
+    "isBoss": false
+  },
+  {
+    "name": "Lampad",
+    "id": 60731,
+    "dlcID": 31,
+    "area": "Imperial Museum",
+    "description": "Elemental monster imprisoned in the Imperial Museum basement. Highly resistant to magic, vulnerable only to its elemental weakness.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Lampad",
+    "id": 60724,
+    "dlcID": 31,
+    "area": "Imperial Museum",
+    "description": "Elemental monster imprisoned in the Imperial Museum basement. Highly resistant to magic, vulnerable only to its elemental weakness.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Constructor",
+    "id": 60621,
+    "dlcID": 31,
+    "area": "Imperial Museum",
+    "description": "Dux Aldric's creation: a weapon resulting from brainwashing intelligent giants using rune-lenses to forge a controllable specimen.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Constructor",
+    "id": 60482,
+    "dlcID": 31,
+    "area": "Baron Hassel’s Residence",
+    "description": "Dux Aldric's creation: a weapon resulting from brainwashing intelligent giants using rune-lenses to forge a controllable specimen.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Constructor",
+    "id": 60341,
+    "dlcID": 31,
+    "area": "Baron Hassel’s Residence",
+    "description": "Dux Aldric's creation: Baron Hassell acquired the specimen after it was discarded due to it going out of control.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Golem Pulverizer",
+    "id": 70041,
+    "dlcID": 31,
+    "area": "Around Kyshiri Village",
+    "description": "A distinguished class within the demon species, proficient in wielding potent dark magic to drain the life from their victims.",
+    "weakness": "Error",
+    "isBoss": true
+  },
+  {
+    "name": "Constructor",
+    "id": 60172,
+    "dlcID": 41,
+    "area": "Ancient Castle",
+    "description": "Revenant of an elite knight, wandering battlefields with their loyal steed. Still protecting the beloved kingdom he served valiantly.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Velious Prot",
+    "id": 60901,
+    "dlcID": 41,
+    "area": "Runebarrows",
+    "description": "A monster from another world that is distressed by its inability to find its way home. It has remarkable agility and attacks anything that approaches.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Lampad",
+    "id": 60792,
+    "dlcID": 41,
+    "area": "Imperial Museum",
+    "description": "Elemental monster imprisoned in the Imperial Museum basement. Highly resistant to magic, vulnerable only to its elemental weakness.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Crazy Bear",
+    "id": 60970,
+    "dlcID": 41,
+    "area": "Runebarrows",
+    "description": "A distinguished class within the demon species, proficient in wielding potent dark magic to drain the life from their victims.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Cat Bandit",
+    "id": 60950,
+    "dlcID": 41,
+    "area": "Runebarrows",
+    "description": "A distinguished class within the demon species, proficient in wielding potent dark magic to drain the life from their victims.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Lampad",
+    "id": 60751,
+    "dlcID": 41,
+    "area": "Imperial Museum",
+    "description": "Elemental monster imprisoned in the Imperial Museum basement. Highly resistant to magic, vulnerable only to its elemental weakness.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Constructor",
+    "id": 60212,
+    "dlcID": 41,
+    "area": "Forest Runebarrows",
+    "description": "Revenant of an elite knight, wandering battlefields with their loyal steed. Still protecting the beloved kingdom he served valiantly.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Gausshastur",
+    "id": 81600,
+    "dlcID": 41,
+    "area": "Forest Runebarrows",
+    "description": "One of the mask-wearing members of a group called the Conclave of the Dawn. A magic user skilled in earth magic.",
+    "weakness": "No Weaknesses",
+    "isBoss": true
+  },
+  {
+    "name": "Androctasiae",
+    "id": 60141,
+    "dlcID": 51,
+    "area": "Ancient Castle",
+    "description": "Stone guardian brought to life by high magic. If its magic wanes, its vibrant blue eyes fade, returning it to a mere statue.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Gremlin",
+    "id": 60091,
+    "dlcID": 51,
+    "area": "Ancient Castle",
+    "description": "Stone seal guardian brought to life by high magic . If its magic wanes, its vibrant yellow eyes fade, returning it to a mere statue.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Androctasiae",
+    "id": 60161,
+    "dlcID": 51,
+    "area": "Ancient Castle",
+    "description": "Revenant of an elite knight, wandering battlefields with their loyal steed. Still protecting the beloved kingdom he served valiantly.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Ammit",
+    "id": 60092,
+    "dlcID": 51,
+    "area": "Ancient Castle",
+    "description": "Stone guardian brought to life by high magic. If its magic wanes, its vibrant blue eyes fade, returning it to a mere statue.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Crazy Bear",
+    "id": 60960,
+    "dlcID": 51,
+    "area": "Runebarrows",
+    "description": "A distinguished class within the demon species, proficient in wielding potent dark magic to drain the life from their victims.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Crazy Bear",
+    "id": 60822,
+    "dlcID": 51,
+    "area": "Imperial Museum",
+    "description": "Elemental monster imprisoned in the Imperial Museum basement. Highly resistant to magic, vulnerable only to its elemental weakness.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Crazy Bear",
+    "id": 60823,
+    "dlcID": 51,
+    "area": "Ancient Castle",
+    "description": "A giant teddy bear that was once popular in the Old Kingdom. It grew to hate humans and became violent.",
+    "weakness": "No Weaknesses",
+    "isBoss": false
+  },
+  {
+    "name": "Bloodfest",
+    "id": 70170,
+    "dlcID": 51,
+    "area": "Shrine",
+    "description": "A mysterious swordsman who was sealed in a realm beyond and appeared out of nowhere. He seems to have some ties to the East...",
+    "weakness": "No Weaknesses",
+    "isBoss": true
+  },
+  {
+    "name": "Kerberos",
+    "id": 70111,
+    "dlcID": 51,
+    "area": "Around Kyshiri Village",
+    "description": "A large three-headed beast-monster that was summoned through a magic circle in the basement of Castle Harganthia. It exhales a powerful flame breath.",
+    "weakness": "No Weaknesses",
+    "isBoss": true
+  }
+]
